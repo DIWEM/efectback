@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="45px" viewBox="0 0 34 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="76.042895%" y2="21.7533903%" id="linearGradient-1">
+            <stop stop-color="#2EA8FF" offset="0%"></stop>
+            <stop stop-color="#FD0FC7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-02" transform="translate(-849.000000, -2659.000000)" fill="url(#linearGradient-1)">
+            <path d="M849,2659.48 L849,2704 L882.92,2704 L882.92,2668.57268 L882.605533,2668.27447 L874.125533,2659.79447 L873.82732,2659.48 L849,2659.48 Z M851.12,2661.6 L872.94964,2661.6 L880.8,2669.45036 L880.8,2701.88 L851.12,2701.88 L851.12,2661.6 Z M854.83,2670.61 L854.83,2698.17 L877.09,2698.17 L877.09,2670.61 L854.83,2670.61 Z M856.95,2672.73 L861.19,2672.73 L861.19,2679.62 L856.95,2679.62 L856.95,2672.73 Z M863.31,2672.73 L868.61,2672.73 L868.61,2679.62 L863.31,2679.62 L863.31,2672.73 Z M870.73,2672.73 L874.97,2672.73 L874.97,2679.62 L870.73,2679.62 L870.73,2672.73 Z M856.95,2681.74 L874.97,2681.74 L874.97,2687.04 L856.95,2687.04 L856.95,2681.74 Z M856.95,2689.16 L861.19,2689.16 L861.19,2696.05 L856.95,2696.05 L856.95,2689.16 Z M863.31,2689.16 L868.61,2689.16 L868.61,2696.05 L863.31,2696.05 L863.31,2689.16 Z M870.73,2689.16 L874.97,2689.16 L874.97,2696.05 L870.73,2696.05 L870.73,2689.16 Z" id="Page-1"></path>
+        </g>
+    </g>
+</svg>
